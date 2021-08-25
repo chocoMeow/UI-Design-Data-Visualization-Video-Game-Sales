@@ -1,5 +1,4 @@
-##### Design a user interface for data visualization
-##### Use video game sales data
+##### Design a user interface for data visualization on video game sales data
 ##### R/R shiny
 ##### data sources: https://www.kaggle.com/gregorut/videogamesales
 #####               https://worldpopulationreview.com/continents
